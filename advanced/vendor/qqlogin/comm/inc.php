@@ -1,0 +1,2 @@
+<?php die('forbidden'); ?>
+{"appid":"101353491","appkey":"df4e46ba7da52f787c6e3336d30526e4","callback":"http://www.iwebshop.com/index.php","scope":"get_user_info,list_album","errorReport":true,"storageType":"file","host":"localhost","user":"root","password":"root","database":"test"}
